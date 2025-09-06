@@ -1,0 +1,5 @@
+C:/Users/frado/Desktop/IRS2-Project/Parking-Sensors/CMakeFiles/Parking-Sensors.dir
+C:/Users/frado/Desktop/IRS2-Project/Parking-Sensors/CMakeFiles/edit_cache.dir
+C:/Users/frado/Desktop/IRS2-Project/Parking-Sensors/CMakeFiles/rebuild_cache.dir
+C:/Users/frado/Desktop/IRS2-Project/Parking-Sensors/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/frado/Desktop/IRS2-Project/Parking-Sensors/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
